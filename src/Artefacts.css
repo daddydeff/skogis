@@ -1,0 +1,17 @@
+.Art-header {
+  margin-top: 3em;
+  display: flex;
+  justify-content: center;
+}
+.Art-container {
+  display: flex;
+  align-items: center;
+}
+.Art-list {
+  display: flex;
+  flex-direction: column;
+  padding-left: 3%;
+  padding-right: 3%;
+  max-height: 300px;
+  margin-bottom: 200px;
+}
